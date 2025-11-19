@@ -25,13 +25,15 @@
 
 ## 🛌 &nbsp;About me
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 👨‍💻 &nbsp;I am currently working in Can Tho, Viet Nam as a Frontend Developer.\
 🌱 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💡 &nbsp;I really want to transition into a DevOps Engineer.\
 💪🏼 &nbsp;In the future, I will create a product that carries my own personal imprint.\
 ✍️ &nbsp;In my free time, I really enjoy the vibe coding.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br/>
 
 ## 🛠️ &nbsp;Tech Stack
 
