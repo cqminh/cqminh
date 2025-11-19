@@ -22,13 +22,15 @@
 
 ## 🛌 &nbsp;Về bản thân
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 👨‍💻 &nbsp;Hiện tại, tôi đang làm việc ở Cần Thơ với vai trò là một Frontend Developer.\
 🌱 &nbsp;Tôi thích khám phá các công nghệ mới và phát triển các giải pháp phần mềm cũng như những tiện ích nhỏ nhanh gọn.\
 💡 &nbsp;Tôi rất muốn chuyển hướng thành một DevOps Engineer.\
 💪🏼 &nbsp;Trong tương lai, tôi sẽ tạo ra một sản phẩm mang được dấu ấn của bản thân.\
 ✍️ &nbsp;Trong thời gian rảnh, tôi rất thích vibe coding.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br/>
 
 ## 🛠️ &nbsp;Công nghệ
 
