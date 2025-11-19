@@ -1,21 +1,18 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
   <h3>
-    Hi there, I'm Châu Quang Minh a.k.a Marky
+    Xin chào, tôi là Châu Quang Minh a.k.a Marky
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
-
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAD691&center=true&width=440&height=45&lines=Software+Engineer;Self-proclaimed+Singer;I+enjoy+traveling;Pay+attention+to+everything" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAD691&center=true&width=440&height=45&lines=K%E1%BB%B9+s%C6%B0+Ph%E1%BA%A7m+m%E1%BB%81m;Ca+s%C4%A9+t%E1%BB%B1+x%C6%B0ng;Th%C3%ADch+%C4%91i+du+l%E1%BB%8Bch;Ch%C3%BA+%C3%BD+m%E1%BB%8Di+th%E1%BB%A9" alt="Typing SVG" /></a>
   </p>
-
   <p align="center">
-    <p>Which language would you like to continue reading in?</p>
-    <a href="readme/README_vi.md">Tiếng Việt </a>
+    <p>Bạn muốn đọc tiếp với ngôn ngữ nào?</p>
+    <a href="README_vi.md">Tiếng Việt </a>
     ·
-    <a href="README.md">English</a>
+    <a href="../README.md">English</a>
   </p>
-
   <p align="center">
     <a href="https://github.com/cqminh" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=cqminh.cqminh"></a>
   </p>
@@ -23,19 +20,19 @@
 
 ---
 
-## 🛌 &nbsp;About me
+## 🛌 &nbsp;Về bản thân
 
-👨‍💻 &nbsp;I am currently working in Can Tho, Viet Nam as a Frontend Developer.\
-🌱 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💡 &nbsp;I really want to transition into a DevOps Engineer.\
-💪🏼 &nbsp;In the future, I will create a product that carries my own personal imprint.\
-✍️ &nbsp;In my free time, I really enjoy the vibe coding.
+👨‍💻 &nbsp;Hiện tại, tôi đang làm việc ở Cần Thơ với vai trò là một Frontend Developer.\
+🌱 &nbsp;Tôi thích khám phá các công nghệ mới và phát triển các giải pháp phần mềm cũng như những tiện ích nhỏ nhanh gọn.\
+💡 &nbsp;Tôi rất muốn chuyển hướng thành một DevOps Engineer.\
+💪🏼 &nbsp;Trong tương lai, tôi sẽ tạo ra một sản phẩm mang được dấu ấn của bản thân.\
+✍️ &nbsp;Trong thời gian rảnh, tôi rất thích vibe coding.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Công nghệ
 
-### 🔧 &nbsp;Languages
+### 🔧 &nbsp;Ngôn ngữ
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,13 +52,13 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### 💾 &nbsp;Databases
+### 💾 &nbsp;Cơ sở dữ liệu
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧰 &nbsp;Tools
+### 🧰 &nbsp;Công cụ
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -71,7 +68,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🎛️ &nbsp;OS
+### 🎛️ &nbsp;Hệ điều hành
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -80,24 +77,24 @@
 
 ---
 
-## 📊 &nbsp;Github Stat
+## 📊 &nbsp;Thống kê Github
 
 <p align=center>
-  <a href="github.com/cqminh">
-    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=cqminh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/cqminh">
+    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=cqminh&theme=onedark&show_icons=true&hide_border=true&count_private=true&locale=vi" />
   </a>
-  <a href="github.com/cqminh">
-    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=cqminh&show_icons=true&layout=compact&langs_count=8&theme=onedark" />
+  <a href="https://github.com/cqminh">
+    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=cqminh&show_icons=true&layout=compact&langs_count=8&theme=onedark&locale=vi" />
   </a>
 </p>
 
 <p align=center>
-  <img height='180em' src="https://streak-stats.demolab.com?user=cqminh&theme=onedark" />
+  <img height='180em' src="https://streak-stats.demolab.com?user=cqminh&theme=onedark&locale=vi" />
 </p>
 
 ---
 
-## 🤝🏻 &nbsp;Connect with me
+## 🤝🏻 &nbsp;Liên hệ với tôi
 
 <p align=center>
   <!-- <a href="mailto:cqminh.it@gmail.com">
@@ -125,4 +122,4 @@
 
 ---
 
-<h6 align="center">👇🏻 Take a look at the public source code I’ve written: 👇🏻</h6>
+<h6 align="center">👇🏻 Xem qua những mã nguồn public mà tôi viết nhé: 👇🏻</h6>
