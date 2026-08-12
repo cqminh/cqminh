@@ -105,9 +105,9 @@
 ## 🤝🏻 &nbsp;Liên hệ với tôi
 
 <p align=center>
-  <!-- <a href="mailto:cqminh.it@gmail.com">
+  <a href="https://cqminh-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
-  </a> -->
+  </a>
   <a href="mailto:cqminh.it@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
